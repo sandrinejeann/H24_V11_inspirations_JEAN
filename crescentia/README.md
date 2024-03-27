@@ -2,6 +2,7 @@ Crescentia
 
 Rhizomatique réalisé par Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic.
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
+![]()
 Effet Papillon réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre.
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 Kigo réalisé par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion.
