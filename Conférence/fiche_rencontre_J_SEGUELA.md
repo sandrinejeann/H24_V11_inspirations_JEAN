@@ -1,5 +1,3 @@
-Le compte-rendu doit avoir un titre. Le propos doit être bien structuré (en paragraphes) avec une introduction qui présente l'intervenant.e et le thème de sa conférence. Puis, quelques-unes des grandes idées partagées sont expliquées dans le développement. Enfin, votre conclusion partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification. Il est important de conserver une attitude ouverte et respectueuse dans cette partie du compte-rendu.
-
 # Conférence avec Jade Séguela
 
 ![](https://www.lozano-hemmer.com/images/splash/rotate/splash_external_interior.jpg)
