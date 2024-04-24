@@ -7,7 +7,7 @@ Schéma:
 ![](https://github.com/TIM-Celestia/Rhizomatique/blob/main/docs/preproduction/medias/rhizomatique_plantation.drawio.png)
 https://github.com/TIM-Celestia/Rhizomatique/blob/main/docs/preproduction/medias/rhizomatique_plantation.drawio.png
 
-Effet Papillon réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre.
+Effet-Papillon réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre.
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 ![](https://github.com/sandrinejeann/H24_V11_inspirations_JEAN/blob/main/crescentia/photo/compresser%20crescentia/effet-papillon_05.jpg)
 Schéma:
@@ -48,8 +48,12 @@ ordonner les projets selon votre préférence actuelle (1 = votre projet préfé
 1) Rhizomatique
 2) Canevas cosmique
 3) Kigo
-4) Effet papillon
+4) Effet-Papillon
 5) Sonalux
 
 Mon ressentiment
-Rhizomatique était très intéréssante, car le contact avec le tissu et les images qui apparaissent par la suite donnait un sentiment de nostalgie comme quand si on retournais à l'enfance. 
+Rhizomatique était très intéréssante, car le contact avec le tissu et les images qui apparaissent par la suite donnait un sentiment de nostalgie comme quand si on retournais à l'enfance.
+Effet-Papillon était une expérience différente et j'ai aimé le concept de l'arbre, même si abstrait, et le style et la musique utilisé était apaisante. L'intéractivité permettait d'essayer différente chose et de garder l'attention du visiteur.
+Kigo était plaisante à essayer puisque le système de jeu était clair et facilement rejouable, mais le concept devient redondant après plusieurs fois. Par contre, le style était le plus attrayant selon moi.
+Sonalux était agréable à expérimenter, mais c'était moins dans mes centres d'interets et je trouvais que une fois avoir essayer quelques minutes 
+
