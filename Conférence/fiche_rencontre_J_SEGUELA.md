@@ -2,7 +2,7 @@ Le compte-rendu doit avoir un titre. Le propos doit être bien structuré (en pa
 
 # Conférence avec Jade Séguela
 
-
+![](https://www.lozano-hemmer.com/images/splash/rotate/splash_external_interior.jpg)
 
 Jade Séguela est régistraire au studio Antimodular sous la direction de l'artiste Rafael Lozano-Hemmer. Durant la conférence, elle présente le studio et ce qu'ils produisent, certaine oeuvre qu'ils ont créés et tout le processus qui viens derriere la création d'une oeuvre et son instalation.
 
