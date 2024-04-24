@@ -55,5 +55,6 @@ Mon ressentiment
 Rhizomatique était très intéréssante, car le contact avec le tissu et les images qui apparaissent par la suite donnait un sentiment de nostalgie comme quand si on retournais à l'enfance.
 Effet-Papillon était une expérience différente et j'ai aimé le concept de l'arbre, même si abstrait, et le style et la musique utilisé était apaisante. L'intéractivité permettait d'essayer différente chose et de garder l'attention du visiteur.
 Kigo était plaisante à essayer puisque le système de jeu était clair et facilement rejouable, mais le concept devient redondant après plusieurs fois. Par contre, le style était le plus attrayant selon moi.
-Sonalux était agréable à expérimenter, mais c'était moins dans mes centres d'interets et je trouvais que une fois avoir essayer quelques minutes 
+Sonalux était agréable à expérimenter, mais c'était moins dans mes centres d'interets et je trouvais que une fois avoir essayé quelques minutes je perdais interets.
+Canevas cosmique était très innovateur et l'intéractivité est agréable à utiliser, car les possibilités sont multiples de ce qu'on peut faire avec les planetes et les combinaisons. L'expérience est simple, fluide et la rejouabilité est captivante.
 
