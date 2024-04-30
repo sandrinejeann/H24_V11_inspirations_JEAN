@@ -4,8 +4,8 @@ Le cour d'interactivité ludique va être essentiel à la création du travail, 
 
 
 Une composante technologique que je ne connaissais pas est la kinect. Je savais brièvement le principe, mais lors de la visite des projets étudiant j'ai pu vraiment voir comment elle était utilisé pour faire des expériences multimédias. La Kinect est constitué de trois caméras : deux caméras 3D infrarouges qui cartographient la salle de jeu en utilisant un quadrillage pour la perception de la profondeur, accompagnées d'une caméra couleur RVB pour la capture vidéo. Ceci permet au visiteur d'utiliser l'expérience facilement par le biais de capteur dans la kinect qui capte le corps ou d'objet qui sont reconnu par celle-ci. Par exemple, dans Kigo la kinect nous permettait d'utiliser sont corps dans le jeu sans avoir besoin de faire quoi que ce soit à part rester dans la zone de jeu. Tandis que dans canevas cosmique, on utilisait la technique par le biais de petite statuette qui avait un symbole en dessous qui était reconnu par la Kinect et qui faisait apparaitre l'effet sur le projecteur.
-![https://github.com/sandrinejeann/H24_V11_inspirations_JEAN/blob/main/crescentia/photo/compresser%20crescentia/kigo_01.jpg]
-![https://github.com/sandrinejeann/H24_V11_inspirations_JEAN/blob/main/crescentia/photo/compresser%20crescentia/canevas-cosmique_02.jpg]
+![](https://github.com/sandrinejeann/H24_V11_inspirations_JEAN/blob/main/crescentia/photo/compresser%20crescentia/kigo_01.jpg)
+![](https://github.com/sandrinejeann/H24_V11_inspirations_JEAN/blob/main/crescentia/photo/compresser%20crescentia/canevas-cosmique_02.jpg)
 
 ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
 1) Effet-Papillon
