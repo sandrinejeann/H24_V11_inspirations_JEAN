@@ -1,6 +1,6 @@
 #Crescentia
 
-##Rhizomatique 
+## Rhizomatique 
 
 Réalisé par Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic. L'œuvre se lie à Crescentia par la croissance du cerveau humain humain au niveau du temps et en vieillissant.
 
@@ -10,7 +10,7 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 ![](https://github.com/TIM-Celestia/Rhizomatique/blob/main/docs/preproduction/medias/rhizomatique_plantation.drawio.png)
 https://github.com/TIM-Celestia/Rhizomatique/blob/main/docs/preproduction/medias/rhizomatique_plantation.drawio.png
 
-##Effet-Papillon 
+## Effet-Papillon 
 
 Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre. L'oeuvre est lié à Crescentia par le cycle de la vie qui évolue et grandit par les différents élément de la nature.
 
@@ -20,7 +20,7 @@ https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 ![](https://github.com/Iteration6/Effet-Papillon/blob/main/docs/preproduction/medias/Plantation_01.jpg)
 https://github.com/Iteration6/Effet-Papillon/blob/main/docs/preproduction/medias/Plantation_01.jpg
 
-##Kigo 
+## Kigo 
 
 Réalisé par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion. L'oeuvre se lie à Crescentia par la croissance de difficulté durant les différents niveaux et la complexité de ceux-ci.
 
@@ -30,7 +30,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 ![](https://github.com/espace-interactif/Kigo/blob/main/docs/preproduction/medias/plantation_technique.png)
 https://github.com/espace-interactif/Kigo/blob/main/docs/preproduction/medias/plantation_technique.png
 
-##Sonalux 
+## Sonalux 
 
 Réalisé par Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins. L'oeuvre est lié à Crescentia par le changement de sons qui arrive quand on intéragit avec le projet.
 
@@ -40,7 +40,7 @@ https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 ![](https://github.com/Sonalux2024/Sonalux/blob/main/docs/preproduction/medias/schemas/schema_plantation.png)
 https://github.com/Sonalux2024/Sonalux/blob/main/docs/preproduction/medias/schemas/schema_plantation.png
 
-##Canevas cosmique 
+## Canevas cosmique 
 
 Réalisé par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau. L'oeuvre se lie à Crescentia par le changement des planète lorsqu'elles sont mélangé ensemble.
 
