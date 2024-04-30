@@ -35,26 +35,5 @@ Schéma:
 ![](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/blob/main/docs/preproduction/medias/plantationPlan.png)
 https://github.com/Les-gars-d-la-table/Canevas-Cosmique/blob/main/docs/preproduction/medias/plantationPlan.png
 
-3 cours essentiel à la création des projets
-identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet
-Interactivité ludique
-Conception d'une expérience multimédia
-Installation multimédia
 
-présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
-kinect
-
-ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
-1) Rhizomatique
-2) Canevas cosmique
-3) Kigo
-4) Effet-Papillon
-5) Sonalux
-
-Mon ressentiment
-Rhizomatique était très intéréssante, car le contact avec le tissu et les images qui apparaissent par la suite donnait un sentiment de nostalgie comme quand si on retournais à l'enfance.
-Effet-Papillon était une expérience différente et j'ai aimé le concept de l'arbre, même si abstrait, et le style et la musique utilisé était apaisante. L'intéractivité permettait d'essayer différente chose et de garder l'attention du visiteur.
-Kigo était plaisante à essayer puisque le système de jeu était clair et facilement rejouable, mais le concept devient redondant après plusieurs fois. Par contre, le style était le plus attrayant selon moi.
-Sonalux était agréable à expérimenter, mais c'était moins dans mes centres d'interets et je trouvais que une fois avoir essayé quelques minutes je perdais interets.
-Canevas cosmique était très innovateur et l'intéractivité est agréable à utiliser, car les possibilités sont multiples de ce qu'on peut faire avec les planetes et les combinaisons. L'expérience est simple, fluide et la rejouabilité est captivante.
 
