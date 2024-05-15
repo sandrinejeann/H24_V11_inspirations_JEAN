@@ -46,12 +46,12 @@ La pièce doit être asser grande pour y installer un dome et des projecteurs to
 Le studio a dû fournir les vidéos qui sont projetté.
  
 ### Éléments nécessaires à la mise en exposition
-Il y a 7 écrans avec des projecteurs qui présente des films. Le plancher est recouvert de tapis et les estrades devant les écrans sont recouvert de tapis aussi. Il y a deux enceintes devant chaque écran pour une immersion et des enceintes dans les coins de la pièce qui s'active après. Il y a des spots des lumières qui s'active à la moitié de la représentation pour projetter des lumières. Les écrans sont suspendu par des fils accrochés au plafond sur des rails. Les câbles sont cacher sous les estrades.
+Il y a un dome au millieu de la salle qui est illuminé par les projecteurs qui affiche des images d'écosystème. Il y a une entré et à l'intérieur il y a des tapis qui autour d'un autre dome qui es comme un miroir qui reflette les images du dome mais aussi comme on est assis autour elle reflet les visages comme si on faisait partit de la faune. Juste à coté de l'entré du dome il y a un mur qui est projetté par les mêmes images que sur le dome et un écran qui donne un peu plus d'information sur l'oeuvre.
 
 ![]()
 ![]()
 ### Expérience vécue
-Quand le visiteur rentre dans la pièce il peut voir la plupart des écrans, le visiteur peut se promener pour regarder les différents écrans ou s'assoir devant un écran et être immersé dans la vidéo. À la moitié de la représentation toute les vidéos deviennent connectées et présente le même effet de distortion et après un calme avec des effets de lumière et de couleurs. Le visiteur est immersé dans l'oeuvre par les lumières et la musique qui change. L'oeuvre veut nous mettre dans un état de trans au travers des vidéos, le sons, la lumière et le tapis qui recouvre la salle.
+Quand le visiteur rentre dans la pièce il est directement mis dans l'ambiance par la bande sonore et les images projettés. Il peut se renseigner sur l'oeuvre devant le mur, face à l'écran ou rentré directement dans le dome et commencer l'expérience. Le visiteur s'assoit soi par-terre ou sur des coussins et adimirer les images autour de lui. Le visiteur est alors transporté dans les différents écosystèmes.
 
 ![]()
  
